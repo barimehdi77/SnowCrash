@@ -1,0 +1,2 @@
+Loaded 1 password hash (descrypt, traditional crypt(3) [DES 64/64])
+No password hashes left to crack (see FAQ)
